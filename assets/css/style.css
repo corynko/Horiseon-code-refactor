@@ -53,7 +53,8 @@ p {
     padding-bottom: 15px;
 }
 
-/* changed <div> referencing this rule set to <img> tag with alt text */
+/* added alt text to <div> tag to improve 
+screen reader experience*/
 .hero {
     height: 800px;
     width: 100%;

@@ -15,3 +15,7 @@ Additionally, the broken Search-Engine-Optimization anchor tag in the nav-bar wa
 Most of my changes in the CSS file reflect my consolidation of extraneous or redundant rule-sets in order to make the code easier to read and edit in the future.
 
 I took great care to ensure the site is identical to how it was before any changes were made, while making the code significantly easier for a new dev to parse in the future. Additionally, some changes (especially to benefits classes and the new service-offerings-left/right classes) will make it significantly easier to maintain consistent formatting should new services be added in the future.
+
+### Live Site
+
+You can view the site at [corynko.github.io/challenge-week1/](https://corynko.github.io/challenge-week1/)
