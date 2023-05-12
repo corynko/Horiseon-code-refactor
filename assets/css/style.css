@@ -63,7 +63,8 @@ p {
     background-position: center;
 }
 
-/* removed unnecessary float rules (see changes to .service-offerings below) */
+/* removed unnecessary float rules (see changes to 
+.benefits and .service-offerings below) */
 .content {
     width: 75%;
     display: inline-block;
