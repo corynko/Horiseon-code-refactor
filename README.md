@@ -18,4 +18,4 @@ I took great care to ensure the site is identical to how it was before any chang
 
 ### Live Site
 
-You can view the site at [corynko.github.io/challenge-week1/](https://corynko.github.io/challenge-week1/)
+You can view the site at [corynko.github.io/challenge-week1/](https://corynko.github.io/Horiseon-code-refactor/)
